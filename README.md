@@ -67,3 +67,5 @@ The following metrics are available:
 - Request counts by endpoint
 - HTTP status codes
 - System metrics (CPU, memory)
+
+
